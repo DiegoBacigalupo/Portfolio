@@ -1,0 +1,9 @@
+C:\Users\Diegote\OneDrive\Imágenes\Escritorio\maxiprograma\4diez\tpGestionDeArt\GestionDeArt\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\Diegote\OneDrive\Imágenes\Escritorio\maxiprograma\4diez\tpGestionDeArt\GestionDeArt\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\Diegote\OneDrive\Imágenes\Escritorio\maxiprograma\4diez\tpGestionDeArt\GestionDeArt\negocio\bin\Debug\negocio.dll
+C:\Users\Diegote\OneDrive\Imágenes\Escritorio\maxiprograma\4diez\tpGestionDeArt\GestionDeArt\negocio\bin\Debug\negocio.pdb
+C:\Users\Diegote\OneDrive\Imágenes\Escritorio\maxiprograma\4diez\tpGestionDeArt\GestionDeArt\negocio\bin\Debug\dominioo.dll
+C:\Users\Diegote\OneDrive\Imágenes\Escritorio\maxiprograma\4diez\tpGestionDeArt\GestionDeArt\negocio\bin\Debug\dominioo.pdb
+C:\Users\Diegote\OneDrive\Imágenes\Escritorio\maxiprograma\4diez\tpGestionDeArt\GestionDeArt\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\Diegote\OneDrive\Imágenes\Escritorio\maxiprograma\4diez\tpGestionDeArt\GestionDeArt\negocio\obj\Debug\negocio.dll
+C:\Users\Diegote\OneDrive\Imágenes\Escritorio\maxiprograma\4diez\tpGestionDeArt\GestionDeArt\negocio\obj\Debug\negocio.pdb

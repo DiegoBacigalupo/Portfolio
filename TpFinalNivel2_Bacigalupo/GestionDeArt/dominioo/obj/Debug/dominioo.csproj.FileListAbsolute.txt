@@ -1,0 +1,6 @@
+C:\Users\Diegote\OneDrive\Imágenes\Escritorio\maxiprograma\4diez\tpGestionDeArt\GestionDeArt\dominioo\bin\Debug\dominioo.dll
+C:\Users\Diegote\OneDrive\Imágenes\Escritorio\maxiprograma\4diez\tpGestionDeArt\GestionDeArt\dominioo\bin\Debug\dominioo.pdb
+C:\Users\Diegote\OneDrive\Imágenes\Escritorio\maxiprograma\4diez\tpGestionDeArt\GestionDeArt\dominioo\obj\Debug\dominioo.csproj.AssemblyReference.cache
+C:\Users\Diegote\OneDrive\Imágenes\Escritorio\maxiprograma\4diez\tpGestionDeArt\GestionDeArt\dominioo\obj\Debug\dominioo.csproj.CoreCompileInputs.cache
+C:\Users\Diegote\OneDrive\Imágenes\Escritorio\maxiprograma\4diez\tpGestionDeArt\GestionDeArt\dominioo\obj\Debug\dominioo.dll
+C:\Users\Diegote\OneDrive\Imágenes\Escritorio\maxiprograma\4diez\tpGestionDeArt\GestionDeArt\dominioo\obj\Debug\dominioo.pdb

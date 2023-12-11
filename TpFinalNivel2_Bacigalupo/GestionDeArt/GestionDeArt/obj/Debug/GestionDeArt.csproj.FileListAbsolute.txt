@@ -1,0 +1,17 @@
+C:\Users\Diegote\OneDrive\Imágenes\Escritorio\maxiprograma\4diez\tpGestionDeArt\GestionDeArt\GestionDeArt\bin\Debug\GestionDeArt.exe.config
+C:\Users\Diegote\OneDrive\Imágenes\Escritorio\maxiprograma\4diez\tpGestionDeArt\GestionDeArt\GestionDeArt\bin\Debug\GestionDeArt.exe
+C:\Users\Diegote\OneDrive\Imágenes\Escritorio\maxiprograma\4diez\tpGestionDeArt\GestionDeArt\GestionDeArt\bin\Debug\GestionDeArt.pdb
+C:\Users\Diegote\OneDrive\Imágenes\Escritorio\maxiprograma\4diez\tpGestionDeArt\GestionDeArt\GestionDeArt\obj\Debug\GestionDeArt.csproj.AssemblyReference.cache
+C:\Users\Diegote\OneDrive\Imágenes\Escritorio\maxiprograma\4diez\tpGestionDeArt\GestionDeArt\GestionDeArt\obj\Debug\GestionDeArt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Diegote\OneDrive\Imágenes\Escritorio\maxiprograma\4diez\tpGestionDeArt\GestionDeArt\GestionDeArt\obj\Debug\GestionDeArt.Form1.resources
+C:\Users\Diegote\OneDrive\Imágenes\Escritorio\maxiprograma\4diez\tpGestionDeArt\GestionDeArt\GestionDeArt\obj\Debug\GestionDeArt.Properties.Resources.resources
+C:\Users\Diegote\OneDrive\Imágenes\Escritorio\maxiprograma\4diez\tpGestionDeArt\GestionDeArt\GestionDeArt\obj\Debug\GestionDeArt.segundaVentana.resources
+C:\Users\Diegote\OneDrive\Imágenes\Escritorio\maxiprograma\4diez\tpGestionDeArt\GestionDeArt\GestionDeArt\obj\Debug\GestionDeArt.csproj.GenerateResource.cache
+C:\Users\Diegote\OneDrive\Imágenes\Escritorio\maxiprograma\4diez\tpGestionDeArt\GestionDeArt\GestionDeArt\obj\Debug\GestionDeArt.csproj.CoreCompileInputs.cache
+C:\Users\Diegote\OneDrive\Imágenes\Escritorio\maxiprograma\4diez\tpGestionDeArt\GestionDeArt\GestionDeArt\obj\Debug\GestionDeArt.exe
+C:\Users\Diegote\OneDrive\Imágenes\Escritorio\maxiprograma\4diez\tpGestionDeArt\GestionDeArt\GestionDeArt\obj\Debug\GestionDeArt.pdb
+C:\Users\Diegote\OneDrive\Imágenes\Escritorio\maxiprograma\4diez\tpGestionDeArt\GestionDeArt\GestionDeArt\bin\Debug\dominioo.dll
+C:\Users\Diegote\OneDrive\Imágenes\Escritorio\maxiprograma\4diez\tpGestionDeArt\GestionDeArt\GestionDeArt\bin\Debug\negocio.dll
+C:\Users\Diegote\OneDrive\Imágenes\Escritorio\maxiprograma\4diez\tpGestionDeArt\GestionDeArt\GestionDeArt\bin\Debug\dominioo.pdb
+C:\Users\Diegote\OneDrive\Imágenes\Escritorio\maxiprograma\4diez\tpGestionDeArt\GestionDeArt\GestionDeArt\bin\Debug\negocio.pdb
+C:\Users\Diegote\OneDrive\Imágenes\Escritorio\maxiprograma\4diez\tpGestionDeArt\GestionDeArt\GestionDeArt\obj\Debug\GestionDeArt.csproj.CopyComplete
